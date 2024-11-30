@@ -1,0 +1,4 @@
+# fluttertemplate
+
+A generic Flutter project to copy files from when having
+to manually update an older Flutter project.

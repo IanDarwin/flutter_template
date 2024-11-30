@@ -1,3 +1,7 @@
+#!/bin/sh
+
+# re-build the project to latest versions of config files
+
 flutter create . \
 	--empty \
 	--org com.darwinsys.xxx \

@@ -4,7 +4,7 @@
 
 flutter create . \
 	--empty \
-	--org com.darwinsys.xxx \
+	--org com.darwinsys \
 	--overwrite \
 	--platforms android,ios,web \
-	--project-name fluttertemplate \
+	--project-name flutter_template \

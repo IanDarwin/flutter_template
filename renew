@@ -8,3 +8,5 @@ flutter create . \
 	--overwrite \
 	--platforms android,ios,web \
 	--project-name flutter_template \
+
+rm ./README.md # already have README.adoc
